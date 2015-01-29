@@ -1,6 +1,7 @@
 
 /*
  * GET home page.
+ * node.js lab
  */
 
 exports.view = function(req, res){
